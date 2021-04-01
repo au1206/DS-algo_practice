@@ -3,3 +3,4 @@ A repo to practice various questions from different platforms on different conce
 
 
 1. LC41: First Missing Positive
+2. LC24: Swap Nodes in Pairs for a LinkedList
