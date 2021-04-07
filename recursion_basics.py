@@ -23,6 +23,15 @@ def str_rev(str):
     print(temp, end='')
 
 
+# Print numbers till N without a loop
+def printTillN(N):
+    if N == 1:
+        print(1, end=' ')
+        return
+    printTillN(N-1)
+    print(N, end=' ')
+
+
 if __name__ == '__main__':
     n = 5
     print("Fibonachi Sequence")
@@ -33,8 +42,10 @@ if __name__ == '__main__':
     for elem in range(n+1):
         print(fact(elem))
 
-    print("\n String Reverse")
+    print("\nString Reverse")
     str_rev("Akshay is awesome")
 
+    print("\n\nPrint Till N")
+    printTillN(10)
 
 
