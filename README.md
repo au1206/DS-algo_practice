@@ -4,6 +4,7 @@ A repo to practice various questions from different platforms on different conce
 LeetCode:
 1. LC41: First Missing Positive
 2. LC24: Swap Nodes in Pairs for a LinkedList
+3. LC700: Search in a Binary Search Tree
 
 
 
