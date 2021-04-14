@@ -20,7 +20,8 @@ CLRS:
 
 ---
 
-####DataStructures:
+
+#### DataStructures:
 Stacks:
 1. Stacks.md
 2. Stacks_with_array
