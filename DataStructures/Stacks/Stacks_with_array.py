@@ -40,7 +40,7 @@ class Stack:
         return self.num_elements == 0
 
     def top(self):
-        return self.arr[self.arr[self.next_idx]]
+        return self.arr[self.next_idx]
 
     def pop(self):
         if self.is_empty():

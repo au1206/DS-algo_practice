@@ -5,3 +5,5 @@ Operation is pre-specified.
 
 In a QUEUE, the element deleted is always the one that has been in the set for the longest time.
 the queue implements a **First-in, First-out or FIFO**
+
+
