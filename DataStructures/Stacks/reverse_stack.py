@@ -80,8 +80,19 @@ def _reverse_stack_recursion(stack, holder_stack):
     _reverse_stack_recursion(stack, holder_stack)
     stack.push(popped_element)
 
-#
-# # without holder stack, although same space complexity, because temps would end up taking same space or even more, as 2 tmps
+
+"""
+NOTE in both the cases space used is same as space will always be n because space(original) + space(rev) = N therefore space complexity should be O(1)**
+**: depends on the implementation of stack, in case of recursion we have to consider recursion stack space so will become O(n) space complexity
+
+Time Complexity in both cases O(n)
+
+so for inplace(same stack) reverse Space and time both O(n)
+for fake reverse(different stack) : Space O(1). Time O(n)
+"""
+
+
+# without holder stack, although same space complexity, because temps would end up taking same space or even more as 2 tmps
 # def insert_at_bottom(stack, item):
 #     if stack.isempty():
 #         stack.push(item)
