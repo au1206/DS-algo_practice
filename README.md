@@ -26,8 +26,11 @@ Stacks:
 1. Stacks.md
 2. Stacks_with_array
 3. Stacks_with_linkedLists
+4. balanced_parantheses
+5. reverse_polish_notation
 
 
 Queues:
 1. Queues.md
+
 
