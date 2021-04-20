@@ -9,6 +9,7 @@ LeetCode:
 3. LC700: Search in a Binary Search Tree
 4. LC119: Pascal's Triangle II
 5. LC682: Baseball Game
+6. LC1598: Crawler Log Folder
 
 
 
