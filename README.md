@@ -21,13 +21,17 @@ CLRS:
 ---
 
 
-#### DataStructures:
-Stacks:
+## DataStructures:
+
+####Stacks:
 1. Stacks.md
 2. Stacks_with_array
 3. Stacks_with_linkedLists
 4. balanced_parantheses
 5. reverse_polish_notation
+6. reverse_stack
+7. minimum_bracket_reversal
+
 
 
 Queues:
