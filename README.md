@@ -40,6 +40,7 @@ Recursion:
 
 Queues:
 1. Queues.md
-2. Queue_with_arrays
-3. Queue_with_LinkedLists
+2. Queues_with_arrays
+3. Queues_with_LinkedLists
+4. Queues_with_stacks
 
