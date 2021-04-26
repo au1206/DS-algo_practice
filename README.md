@@ -47,6 +47,11 @@ A repo to practice various questions from different platforms on different conce
 5. reverse_first_K_elements
 6. reverse_queue
 7. reverse_queue_recursion
-8. sort_queue
-9. interleave_half_queue
+8. sort_queue #TODO
+9. interleave_half_queue #TODO
+
+
+
+#### LinkedLists:
+1. Singly_LinkedLists
 
