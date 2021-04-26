@@ -54,4 +54,5 @@ A repo to practice various questions from different platforms on different conce
 
 #### LinkedLists:
 1. Singly_LinkedList
+2. Doubly_LinkedList
 
