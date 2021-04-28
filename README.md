@@ -57,4 +57,5 @@ A repo to practice various questions from different platforms on different conce
 2. Doubly_LinkedList
 3. reverse_LinkedList
 4. loop_detection
+5. flattening_a_nested_linkedlist
 
