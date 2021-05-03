@@ -60,3 +60,8 @@ A repo to practice various questions from different platforms on different conce
 5. flattening_a_nested_linkedlist 
 6. swap_nodes (for given indices)
 
+
+
+#### Trees:
+1. tree_implementation
+2. DFS_with_stacks
