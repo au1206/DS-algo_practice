@@ -105,7 +105,7 @@ class State(object):
     def __repr__(self):
         s = f"""{self.node}
 visited_left: {self.visited_left}
-visited_right: {self.visited_right}
+visited_right: {self .visited_right}
         """
         return s
 
