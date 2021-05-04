@@ -65,3 +65,4 @@ A repo to practice various questions from different platforms on different conce
 #### Trees:
 1. tree_implementation
 2. DFS_with_stacks
+3. DFS_recursion
