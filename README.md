@@ -67,3 +67,4 @@ A repo to practice various questions from different platforms on different conce
 2. DFS_with_stacks
 3. DFS_recursion
 4. BFS
+5. BST_insertion
