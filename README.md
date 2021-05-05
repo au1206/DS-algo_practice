@@ -68,3 +68,4 @@ A repo to practice various questions from different platforms on different conce
 3. DFS_recursion
 4. BFS
 5. BST_insertion
+6. BST_search
