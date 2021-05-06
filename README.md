@@ -69,3 +69,4 @@ A repo to practice various questions from different platforms on different conce
 4. BFS
 5. BST_insertion
 6. BST_search
+7. BST_deletion
