@@ -11,6 +11,7 @@ A repo to practice various questions from different platforms on different conce
 5. LC682: Baseball Game --- [Stacks]
 6. LC1598: Crawler Log Folder --- [Stacks]
 7. LC232: Implement Queue using Stacks --- [Stacks][Queues]
+8. LC542: Diameter of Binary Tree --- [Trees][DFS][Recursion]
 
 
 
