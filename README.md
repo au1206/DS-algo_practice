@@ -12,6 +12,7 @@ A repo to practice various questions from different platforms on different conce
 6. LC1598: Crawler Log Folder --- [Stacks]
 7. LC232: Implement Queue using Stacks --- [Stacks][Queues]
 8. LC542: Diameter of Binary Tree --- [Trees][DFS][Recursion]
+9. LC101: Symmetric Tree --- [Trees][Recusrion]
 
 
 
@@ -73,3 +74,4 @@ A repo to practice various questions from different platforms on different conce
 7. BST_search
 8. BST_deletion
 9. path_from_root_to_node
+10. Symmetric_tree
