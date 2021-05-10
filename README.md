@@ -64,10 +64,12 @@ A repo to practice various questions from different platforms on different conce
 
 
 #### Trees:
-1. tree_implementation
-2. DFS_with_stacks
-3. DFS_recursion
-4. BFS
-5. BST_insertion
-6. BST_search
-7. BST_deletion
+1. Binary_trees.md
+2. tree_implementation
+3. DFS_with_stacks
+4. DFS_recursion
+5. BFS
+6. BST_insertion
+7. BST_search
+8. BST_deletion
+9. path_from_root_to_node
