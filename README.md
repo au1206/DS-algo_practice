@@ -14,6 +14,7 @@ A repo to practice various questions from different platforms on different conce
 8. LC542: Diameter of Binary Tree --- [Trees][DFS][Recursion]
 9. LC101: Symmetric Tree --- [Trees][Recusrion]
 10. LC226: Invert Binary Tree --- [Trees][Recursion]
+11. LC589: N-ary Tree Pre-order Traversal --- [Trees][DFS]
 
 
 **Recursion:**
