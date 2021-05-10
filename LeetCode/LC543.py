@@ -36,6 +36,7 @@ The number of nodes in the tree is in the range [1, 104].
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def diameterOfBinaryTree(self, root):
         res = [0]

@@ -47,6 +47,7 @@ tree = Tree("apple")
 tree.get_root().set_left_child(Node("banana"))
 tree.get_root().set_right_child(Node("cherry"))
 tree.get_root().get_left_child().set_left_child(Node("dates"))
+tree.get_root().get_right_child().set_right_child(Node("Egg"))
 
 
 # DFS using a stack
@@ -142,6 +143,7 @@ def pre_order_with_stack(tree, debug_mode=True):
             node = node.get_right_child()
             visited.append(node.get_value())
             state = State(node)
+            stack.push(state)
 
         else:
             stack.pop()
