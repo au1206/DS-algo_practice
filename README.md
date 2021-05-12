@@ -16,6 +16,7 @@ A repo to practice various questions from different platforms on different conce
 10. LC226: Invert Binary Tree --- [Trees][Recursion]
 11. LC589: N-ary Tree Pre-order Traversal --- [Trees][DFS]
 12. LC563: Binary Tree Tilt --- [Trees][DFS]
+13. LC530: Minimum Absolute Difference in BST --- [Trees][DFS]
 
 
 **Recursion:**
