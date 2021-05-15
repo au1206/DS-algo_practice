@@ -21,6 +21,11 @@ A repo to practice various questions from different platforms on different conce
 15. LC205: Isomorphic Strings --- [Hash Table]
 
 
+**Medium:**
+1. LC1817: Finding the Users Active Minutes --- [Hash Table]
+
+
+
 **Recursion:**
 1. recursion_basics
 2. LinkedList_reverse_recursion
