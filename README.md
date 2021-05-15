@@ -17,12 +17,13 @@ A repo to practice various questions from different platforms on different conce
 11. LC589: N-ary Tree Pre-order Traversal --- [Trees][DFS]
 12. LC563: Binary Tree Tilt --- [Trees][DFS]
 13. LC530: Minimum Absolute Difference in BST --- [Trees][DFS]
-14. LC1512:  Number of Good Pairs --- [Hash Table]
+14. LC1512: Number of Good Pairs --- [Hash Table]
 15. LC205: Isomorphic Strings --- [Hash Table]
 
 
 **Medium:**
 1. LC1817: Finding the Users Active Minutes --- [Hash Table]
+2. LC648: Replace Words --- [Hash Table]
 
 
 
