@@ -52,7 +52,7 @@ H1(k): is the hash function 1
 to hash tables is only true if you have
 a good uniform hash function! 
 
-
+---
 
 ## HASH COLLISIONS
 A hash collision is when two objects x, y hash to the same value (i.e. H(x) = H(y)).

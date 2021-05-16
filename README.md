@@ -86,3 +86,8 @@ A repo to practice various questions from different platforms on different conce
 8. BST_deletion
 9. path_from_root_to_node
 10. Symmetric_tree
+
+
+
+#### HashTables
+1. hash_table.md
