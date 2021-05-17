@@ -89,5 +89,5 @@ A repo to practice various questions from different platforms on different conce
 
 
 
-#### HashTables
+#### HashTables:
 1. hash_table.md

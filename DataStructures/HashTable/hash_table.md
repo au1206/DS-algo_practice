@@ -81,7 +81,7 @@ table.
 fixed value. This means once α > threshold we need to grow the table size (ideally exponentially, e.g. double).
 
 
-#### Open addressing main idea
+### Open addressing main idea
 When we want to insert a key-value pair (k,v) into the hash table we hash the key and obtain an original position for 
 where this key-value pair belongs, i.e H(k).
 
@@ -101,13 +101,13 @@ P(k,x) = x*H2(k), where H2(k) is a secondary hash function
 P(k,x) = x*RNG(H(k),x), where RNG is a random number generator function seeded with H(k).
 
 
-#### Chaos of Cycles
+### Chaos of Cycles
 Most randomly selected probing sequences modulo N will produce a cycle shorter than
 the table size. This becomes problematic when you are trying to insert a key-value pair and all the buckets on the cycle 
 are occupied because you will get stuck in an infinite loop!
 
 
-##### For Linear Probing
+#### For Linear Probing
 The infinite loop problem is solved when a and N are relatively prime. Two numbers are relatively prime if their 
 Greatest Common Denominator (GCD) is equal to one. Hence, when GCD(a,N) = 1 the probing function P(x) be able to 
 generate a complete cycle and we will always be able to find an empty bucket!
