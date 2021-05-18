@@ -91,3 +91,12 @@ A repo to practice various questions from different platforms on different conce
 
 #### HashTables:
 1. hash_table.md
+
+
+---
+## DSA Level Up course
+
+#### Arrays and Vectors
+1. pairs --- [Sets] 
+2. triplets --- [Two Pointers]
+3. mountain --- [Peaks]
