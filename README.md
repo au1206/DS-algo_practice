@@ -101,3 +101,4 @@ A repo to practice various questions from different platforms on different conce
 2. triplets --- [Two Pointers]
 3. mountain --- [Peaks]
 4. longest_band --- [Sets]
+5. rains --- [Arrays]
