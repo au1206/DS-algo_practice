@@ -35,7 +35,7 @@ def sort_subarray1(a):
     return [left, right]
 
 
-# Approach 2: find the smallest and the largest out of place elementy in the array, then find the correct positions of
+# Approach 2: find the smallest and the largest out of place elements in the array, then find the correct positions of
 # these elements to find the left and right. Time Complexity: O(n)
 def sort_subarray2(a):
     left = -1

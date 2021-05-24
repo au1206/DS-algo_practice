@@ -103,3 +103,4 @@ A repo to practice various questions from different platforms on different conce
 4. longest_band --- [Sets]
 5. rains --- [Arrays]
 6. subarray_sort --- [Arrays]
+7. minimum_swaps --- [Arrays]*
