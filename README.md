@@ -108,3 +108,4 @@ A repo to practice various questions from different platforms on different conce
 
 #### LinkedLists
 1. reverse_a_linkedlist 
+2. merge_sorted_linkedlists
