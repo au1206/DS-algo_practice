@@ -104,3 +104,7 @@ A repo to practice various questions from different platforms on different conce
 5. rains --- [Arrays]
 6. subarray_sort --- [Arrays]
 7. minimum_swaps --- [Arrays]*
+
+
+#### LinkedLists
+1. reverse_a_linkedlist 
