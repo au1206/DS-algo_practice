@@ -37,7 +37,7 @@ class LinkedList:
 
         node.next = Node(value)
 
-
+# space and time are both O(N+M) (space because of stack dept is n+m and each recursive callw e are storing one variable)
 def merge(head1, head2):
     if head1 is None:
         return head2

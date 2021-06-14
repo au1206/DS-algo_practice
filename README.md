@@ -19,11 +19,14 @@ A repo to practice various questions from different platforms on different conce
 13. LC530: Minimum Absolute Difference in BST --- [Trees][DFS]
 14. LC1512: Number of Good Pairs --- [Hash Table]
 15. LC205: Isomorphic Strings --- [Hash Table]
+16. LC1: Two Sum --- [Hash Table]
+
 
 
 **Medium:**
 1. LC1817: Finding the Users Active Minutes --- [Hash Table]
 2. LC648: Replace Words --- [Hash Table]
+3. LC1041: Robot Bounded in Circle** --- [Maths]
 
 
 
@@ -105,6 +108,8 @@ A repo to practice various questions from different platforms on different conce
 6. subarray_sort --- [Arrays]
 7. minimum_swaps --- [Arrays]*
 
+
+### Sliding Window and 2 Pointer
 
 #### LinkedLists
 1. reverse_a_linkedlist 
