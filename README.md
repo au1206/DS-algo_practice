@@ -20,7 +20,7 @@ A repo to practice various questions from different platforms on different conce
 14. LC1512: Number of Good Pairs --- [Hash Table]
 15. LC205: Isomorphic Strings --- [Hash Table]
 16. LC1: Two Sum --- [Hash Table]
-
+17. LC953: Verifying Alien Dictionary [Hash Table]
 
 
 **Medium:**
