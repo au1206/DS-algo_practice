@@ -23,6 +23,7 @@ A repo to practice various questions from different platforms on different conce
 17. LC953: Verifying Alien Dictionary --- [Hash Table]
 18. LC20: Valid Parentheses --- [Stacks]
 19. LC121: Best Time to Buy and Sell Stock --- [Arrays]
+20. LC7: Reverse Integer
 
 
 
