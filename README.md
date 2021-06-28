@@ -21,7 +21,8 @@ A repo to practice various questions from different platforms on different conce
 15. LC205: Isomorphic Strings --- [Hash Table]
 16. LC1: Two Sum --- [Hash Table]
 17. LC953: Verifying Alien Dictionary --- [Hash Table]
-20. LC20: Valid Parentheses --- [Stacks]
+18. LC20: Valid Parentheses --- [Stacks]
+19. LC121: Best Time to Buy and Sell Stock --- [Arrays]
 
 
 
