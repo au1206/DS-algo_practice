@@ -26,10 +26,12 @@ A repo to practice various questions from different platforms on different conce
 
 
 
+
 **Medium:**
 1. LC1817: Finding the Users Active Minutes --- [Hash Table]
 2. LC648: Replace Words --- [Hash Table]
 3. LC1041: Robot Bounded in Circle** --- [Maths]
+4. LC33: Search in Rotated Sorted Array --- [Binary Search]
 
 
 
